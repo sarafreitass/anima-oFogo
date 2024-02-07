@@ -1,0 +1,2 @@
+Modelo de fogo retirado do openprocessing baseado em particulas que simulam fogo, atraves do satelite FIRMS da NASA que capta todos os incendios florestais que ocorreram no Brasil no último ano, gerando uma animação artistica feita atraves de fenomenos meteorologicos por intervenção humana ou naturais a vegetação.
+![fogo-dimensionado_Rx8ihH8D](https://github.com/sarafreitass/anima-oFogo/assets/84232270/69bd5350-8a35-479b-9d55-eae8d4315b17)
