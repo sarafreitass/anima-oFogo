@@ -11,10 +11,10 @@ Referência: https://openprocessing.org/sketch/757060
 
 Fenômeno associado: Os piores incêndios florestais do Brasil em 2022.
 
-/* Proposta poética: A representação do modelo se mostra quase como uma pintura, demonstrada por cores fortes e locais de movimentos
+Proposta poética: A representação do modelo se mostra quase como uma pintura, demonstrada por cores fortes e locais de movimentos
 bem determinados por suas partículas, levando em consideração a base de dados que utiliza variáveis como localização (refletida na 
 composição pelo espaço da tela que a partícula ocupa) e intensidade do fogo (refletida na composição pela cor da partícula), a 
-representação demonstrou-se ideal para enfatizar a sensação de vários incêndios interagindo e existindo no mesmo espaço.*/
+representação demonstrou-se ideal para enfatizar a sensação de vários incêndios interagindo e existindo no mesmo espaço.
 
 Sonoro: Essa animação ainda não possui efeito sonoro
 
@@ -23,4 +23,5 @@ Sound designer: ----
 Referência: ----
 
 Fenômeno : ----
+
 Proposta poética: ---- 
