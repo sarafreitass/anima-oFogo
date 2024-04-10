@@ -7,11 +7,11 @@ bem determinados por suas partículas, levando em consideração a base de dados
 composição pelo espaço da tela que a partícula ocupa) e intensidade do fogo (refletida na composição pela cor da partícula), a 
 representação demonstrou-se ideal para enfatizar a sensação de vários incêndios interagindo e existindo no mesmo espaço.*/
 
-// Sonoro:
-// Sound designer: 
-// Referência: <link, algoritmo…
-// Fenômeno 
-// Proposta poética: 
+// Sonoro: Essa animação ainda não possui efeito sonoro
+// Sound designer: ----
+// Referência: ----
+// Fenômeno : ----
+// Proposta poética: ---- 
 
 
 p5.disableFriendlyErrors = true; // disables FES, significant speed up
